@@ -1,5 +1,4 @@
-import { TodoContainer } from '@/components/TodoContainer';
-
+import { TodoContainer } from "@/features/Todo";
 export default function Home() {
   return (
     <main className="min-h-screen p-8">
